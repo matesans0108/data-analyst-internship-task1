@@ -1,4 +1,4 @@
-# Data Analyst Internship - Task 1
+# Data Analyst - Task 1
 ## Dataset: Mall Customers
 
 ### Objective:
